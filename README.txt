@@ -1,5 +1,3 @@
-README
-
 This folder contains all final deliverables for the project:
 
 "AI-Driven Fairness Measurement and Summarization in Large Language Models: An Examination for Financial Institutions"
